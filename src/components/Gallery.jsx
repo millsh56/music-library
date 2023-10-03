@@ -1,4 +1,3 @@
-import React from 'react'
 import GalleryItem from './GalleryItem'
 
 function Gallery (props) {
@@ -17,3 +16,4 @@ function Gallery (props) {
 }
 
 export default Gallery
+
